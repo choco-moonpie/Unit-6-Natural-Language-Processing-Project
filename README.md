@@ -38,4 +38,4 @@ The goal of our application is two branches, to define a word or to find a synon
 
 ## NLP Techniques
 
-Write a description of what natural language technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods work and how they are necessary in the NLP technique.
+We used NLP techniques to run through the textfiles wordDefinition.txt and synonym.txt, implementing the methods indexOf() and subString(). The findDefinition findSynonym method takes the word defined by the given parameters provided by the indexOf to find where to start and stop. Then that the inputted word from the user is stored as a string to be compared to the text file. These methods togethers works as counterparts, helping our application work with funtionality and purpose.

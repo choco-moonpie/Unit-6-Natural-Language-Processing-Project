@@ -34,7 +34,7 @@ Record a short video of your project to display here on your README. You can do 
 
 ## Project Description
 
-Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text and how the user interacts with your project.
+The goal of our application is two branches, to define a word or to find a synonm of a word based upon the user's input. When the application runs, the console prints out numbers 1 and 2 defining and finding a synonym respectivly. The user will then type either 1 or 2; then they will type what word they would like to define or find the synonym of. The text files of wordDefinition and synonym are then read to based upon the input, checking if the input word matches one of the words in its file. If the word can't be found in the file then the application with print, "Goodbye!" but if the word can be found in the text file then the definition or synonyms of the word will be printed.
 
 ## NLP Techniques
 

@@ -1,4 +1,3 @@
-# Unit-6-Natural-Language-Processing-Project
 # Unit 6 - Natural Language Processing Project
 
 ## Introduction
